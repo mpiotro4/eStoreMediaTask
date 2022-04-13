@@ -1,6 +1,6 @@
 eStoreMedia Recruitment Data IT
 
-Skrypt uruchamia się w konterze Dockera, aby go zbudować należy w folderze "docker" wpisać następującą komendę
+Skrypt można uruchomić w kontenerze, aby go zbudować należy w folderze "docker" wpisać następującą komendę
 ```sh
 docker-compose up
 ```
