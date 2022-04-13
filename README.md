@@ -4,7 +4,7 @@ Skrypt uruchamia się w konterze Dockera, aby go zbudować należy w folderze "d
 ```sh
 docker-compose up
 ```
-Aplikacja działa na porcie 8000.
+Aplikacja będzie dostępna w przeglądarce pod adresem http://localhost:8000/.
 Aby zmienić tryb pracy skryptu z pobierania html na dysk na przetwarzanie html w locie należy zmienić wartość parametru "download" w index.php na "false".
 
 Dane techniczne:
